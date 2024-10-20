@@ -37,7 +37,7 @@
 </head>
 <body>
 
-<div class="welcome-box">
+<div class="chalBhag-box">
     <h1>Welcome!</h1>
     <p>
         <?php
